@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-M21 desc-M21">
+  <title id="title-M21">原理拆解（它是怎么工作的）</title>
+  <desc id="desc-M21">M21 · 讲解类 · 抓公告那个例子（定时、抓取、筛选、总结、提醒），讲&amp;quot;它到底是怎么做到的&amp;quot;。</desc>
+  <defs>
+    <linearGradient id="bg-M21" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff4d6"/><stop offset="0.55" stop-color="#1d1727"/><stop offset="1" stop-color="#45304d"/>
+    </linearGradient>
+    <radialGradient id="glow-M21" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#ef8b72" stop-opacity=".36"/><stop offset="1" stop-color="#fff4d6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-M21" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f6c883" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-M21)"/><rect width="800" height="450" fill="url(#glow-M21)"/><rect width="800" height="450" fill="url(#grid-M21)"/>
+  <g data-motif="chart"><path d="M120 81V355.5H688" fill="none" stroke="#f6c883" stroke-width="3" opacity=".7"/><rect x="164" y="261.34" width="35.82" height="94.16" rx="4" fill="#ef8b72" opacity=".82"/><rect x="229" y="135.95" width="35.81" height="219.55" rx="4" fill="#45304d" opacity=".82"/><rect x="294" y="291.81" width="40.09" height="63.69" rx="4" fill="#ef8b72" opacity=".82"/><rect x="359" y="176.14" width="37.66" height="179.36" rx="4" fill="#45304d" opacity=".82"/><rect x="424" y="266.49" width="40.49" height="89.01" rx="4" fill="#ef8b72" opacity=".82"/><rect x="489" y="207.75" width="34.59" height="147.75" rx="4" fill="#45304d" opacity=".82"/><rect x="554" y="240.44" width="35.66" height="115.06" rx="4" fill="#ef8b72" opacity=".82"/><path d="M120 135.23 L195 232.57 L270 158.03 L345 162.74 L420 142.46 L495 219.91 L570 214.19 L645 202.52 L720 171.74" fill="none" stroke="#f6c883" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/><circle cx="120" cy="135.23" r="5" fill="#ef8b72"/><circle cx="195" cy="232.57" r="5" fill="#ef8b72"/><circle cx="270" cy="158.03" r="5" fill="#ef8b72"/><circle cx="345" cy="162.74" r="5" fill="#ef8b72"/><circle cx="420" cy="142.46" r="5" fill="#ef8b72"/><circle cx="495" cy="219.91" r="5" fill="#ef8b72"/><circle cx="570" cy="214.19" r="5" fill="#ef8b72"/><circle cx="645" cy="202.52" r="5" fill="#ef8b72"/><circle cx="720" cy="171.74" r="5" fill="#ef8b72"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#fff4d6" opacity=".72" stroke="#f6c883" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#f6c883" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">M21</text>
+  <text x="776" y="426" text-anchor="end" fill="#f6c883" opacity=".72" font-family="sans-serif" font-size="15">原理拆解（它是怎么工作的）</text>
+  <path d="M24 434H776" stroke="#ef8b72" stroke-width="2" opacity=".54"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K6 desc-K6">
+  <title id="title-K6">清线漫画</title>
+  <desc id="desc-K6">K6 · 适合做&quot;我&quot;的 · 线条均匀，平涂，像《丁丁历险记》</desc>
+  <defs>
+    <linearGradient id="bg-K6" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff3e5"/><stop offset="0.55" stop-color="#ffcabd"/><stop offset="1" stop-color="#f1848d"/>
+    </linearGradient>
+    <radialGradient id="glow-K6" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#6b76d6" stop-opacity=".36"/><stop offset="1" stop-color="#fff3e5" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K6" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#26305a" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K6)"/><rect width="800" height="450" fill="url(#glow-K6)"/><rect width="800" height="450" fill="url(#grid-K6)"/>
+  <g data-motif="geometry"><circle cx="160.87" cy="300.51" r="23.72" fill="#6b76d6" opacity="0.427"/><rect x="117.58" y="287.69" width="65.11" height="65.11" rx="10.32" fill="#26305a" opacity="0.696" transform="rotate(15.57 150.14 320.25)"/><path d="M273.15 235.37L289.26 267.58H257.05Z" fill="#6b76d6" opacity="0.574"/><circle cx="139.67" cy="148.99" r="54.3" fill="#f1848d" opacity="0.775"/><rect x="537.39" y="294.17" width="47.31" height="47.31" rx="6.43" fill="#f1848d" opacity="0.502" transform="rotate(-11.82 561.05 317.83)"/><path d="M591.23 203.77L630.55 282.41H551.91Z" fill="#6b76d6" opacity="0.755"/><circle cx="416.54" cy="317.34" r="39.09" fill="#6b76d6" opacity="0.469"/><rect x="595.87" y="255.17" width="124.74" height="124.74" rx="6.06" fill="#26305a" opacity="0.294" transform="rotate(-2.02 658.24 317.54)"/><path d="M260.47 269.77L318.8 386.42H202.15Z" fill="#6b76d6" opacity="0.545"/><circle cx="392.29" cy="219.3" r="90.95" fill="none" stroke="#26305a" stroke-width="4" opacity=".86"/><path d="M350.29 219.3h84M392.29 177.3v84" stroke="#6b76d6" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#fff3e5" opacity=".72" stroke="#26305a" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#26305a" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K6</text>
+  <text x="776" y="426" text-anchor="end" fill="#26305a" opacity=".72" font-family="sans-serif" font-size="15">清线漫画</text>
+  <path d="M24 434H776" stroke="#6b76d6" stroke-width="2" opacity=".54"/>
+</svg>

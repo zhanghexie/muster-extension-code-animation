@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-M25 desc-M25">
+  <title id="title-M25">歌词卡点</title>
+  <desc id="desc-M25">M25 · 文字和金句类 · 你自己的歌，或者片子里有一段唱的部分。</desc>
+  <defs>
+    <linearGradient id="bg-M25" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d1727"/><stop offset="0.55" stop-color="#45304d"/><stop offset="1" stop-color="#ef8b72"/>
+    </linearGradient>
+    <radialGradient id="glow-M25" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#f6c883" stop-opacity=".36"/><stop offset="1" stop-color="#1d1727" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-M25" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff4d6" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-M25)"/><rect width="800" height="450" fill="url(#glow-M25)"/><rect width="800" height="450" fill="url(#grid-M25)"/>
+  <g data-motif="type"><rect x="142.83" y="77.55" width="552.76" height="5.61" rx="3" fill="#f6c883" opacity="0.633"/><rect x="108.2" y="119.45" width="405" height="10.2" rx="3" fill="#fff4d6" opacity="0.539"/><rect x="122.38" y="158.71" width="336.37" height="5.33" rx="3" fill="#fff4d6" opacity="0.586"/><rect x="89.33" y="201.68" width="313.95" height="6.02" rx="3" fill="#f6c883" opacity="0.395"/><rect x="134.02" y="235.91" width="439.97" height="8.58" rx="3" fill="#fff4d6" opacity="0.316"/><rect x="138.17" y="273.19" width="443.46" height="10.08" rx="3" fill="#fff4d6" opacity="0.6"/><rect x="129.94" y="320.71" width="323.24" height="8.78" rx="3" fill="#f6c883" opacity="0.508"/><rect x="95.97" y="354.85" width="208.83" height="9.36" rx="3" fill="#fff4d6" opacity="0.33"/><text x="389.35" y="222.4" text-anchor="middle" fill="#fff4d6" opacity=".9" font-family="sans-serif" font-size="58.5" font-weight="700">M25</text><path d="M453.35 146.4v103.67" stroke="#f6c883" stroke-width="5" opacity=".9"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#1d1727" opacity=".72" stroke="#fff4d6" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#fff4d6" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">M25</text>
+  <text x="776" y="426" text-anchor="end" fill="#fff4d6" opacity=".72" font-family="sans-serif" font-size="15">歌词卡点</text>
+  <path d="M24 434H776" stroke="#f6c883" stroke-width="2" opacity=".54"/>
+</svg>

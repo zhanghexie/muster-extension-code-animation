@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K31 desc-K31">
+  <title id="title-K31">平铺整理</title>
+  <desc id="desc-K31">K31 · 画面风格 · 展示&amp;quot;我的工具箱&amp;quot;</desc>
+  <defs>
+    <linearGradient id="bg-K31" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26305a"/><stop offset="0.55" stop-color="#fff3e5"/><stop offset="1" stop-color="#ffcabd"/>
+    </linearGradient>
+    <radialGradient id="glow-K31" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#f1848d" stop-opacity=".36"/><stop offset="1" stop-color="#26305a" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K31" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6b76d6" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K31)"/><rect width="800" height="450" fill="url(#glow-K31)"/><rect width="800" height="450" fill="url(#grid-K31)"/>
+  <g data-motif="geometry"><circle cx="204.34" cy="119.76" r="44.96" fill="#f1848d" opacity="0.575"/><rect x="294.72" y="292.29" width="69.62" height="69.62" rx="15.5" fill="#6b76d6" opacity="0.535" transform="rotate(8.2 329.52 327.1)"/><path d="M393.51 135.81L456.89 262.57H330.13Z" fill="#f1848d" opacity="0.743"/><circle cx="616.11" cy="233.69" r="36.64" fill="#ffcabd" opacity="0.652"/><rect x="266.15" y="117.71" width="124.73" height="124.73" rx="13.46" fill="#ffcabd" opacity="0.786" transform="rotate(12.2 328.51 180.07)"/><path d="M487.08 180.47L521.95 250.22H452.2Z" fill="#f1848d" opacity="0.498"/><circle cx="655.99" cy="226.98" r="64.99" fill="#f1848d" opacity="0.589"/><rect x="440.29" y="264.2" width="78.66" height="78.66" rx="18.01" fill="#6b76d6" opacity="0.675" transform="rotate(5.92 479.62 303.53)"/><path d="M407.89 231.04L426.41 268.08H389.37Z" fill="#f1848d" opacity="0.348"/><circle cx="408.21" cy="204.57" r="76.17" fill="none" stroke="#6b76d6" stroke-width="4" opacity=".86"/><path d="M366.21 204.57h84M408.21 162.57v84" stroke="#f1848d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#26305a" opacity=".72" stroke="#6b76d6" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#6b76d6" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K31</text>
+  <text x="776" y="426" text-anchor="end" fill="#6b76d6" opacity=".72" font-family="sans-serif" font-size="15">平铺整理</text>
+  <path d="M24 434H776" stroke="#f1848d" stroke-width="2" opacity=".54"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-H9 desc-H9">
+  <title id="title-H9">Coral</title>
+  <desc id="desc-H9">H9 · 现成版式 · 全大写 Bebas Neue 标题，奶油底珊瑚色</desc>
+  <defs>
+    <linearGradient id="bg-H9" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2eee5"/><stop offset="0.55" stop-color="#c8d5e3"/><stop offset="1" stop-color="#2d4f77"/>
+    </linearGradient>
+    <radialGradient id="glow-H9" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#c76850" stop-opacity=".36"/><stop offset="1" stop-color="#f2eee5" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-H9" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#182334" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-H9)"/><rect width="800" height="450" fill="url(#glow-H9)"/><rect width="800" height="450" fill="url(#grid-H9)"/>
+  <g data-motif="geometry"><circle cx="342" cy="88.13" r="23.09" fill="#c76850" opacity="0.373"/><rect x="603.97" y="171.03" width="45.1" height="45.1" rx="10.43" fill="#182334" opacity="0.768" transform="rotate(35.61 626.52 193.58)"/><path d="M669.4 201.49L711.76 286.2H627.05Z" fill="#c76850" opacity="0.759"/><circle cx="187.73" cy="183.57" r="50.55" fill="#2d4f77" opacity="0.372"/><rect x="135.15" y="309.76" width="31.09" height="31.09" rx="9.44" fill="#2d4f77" opacity="0.374" transform="rotate(39.91 150.69 325.31)"/><path d="M620.15 113.36L642.4 157.87H597.89Z" fill="#c76850" opacity="0.38"/><circle cx="137.34" cy="197.74" r="20.43" fill="#c76850" opacity="0.788"/><rect x="367.43" y="236.49" width="63.32" height="63.32" rx="19.53" fill="#182334" opacity="0.324" transform="rotate(-15.86 399.08 268.15)"/><path d="M670.22 62.01L706.23 134.04H634.21Z" fill="#c76850" opacity="0.744"/><circle cx="396.04" cy="212.11" r="78.07" fill="none" stroke="#182334" stroke-width="4" opacity=".86"/><path d="M354.04 212.11h84M396.04 170.11v84" stroke="#c76850" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#f2eee5" opacity=".72" stroke="#182334" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#182334" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">H9</text>
+  <text x="776" y="426" text-anchor="end" fill="#182334" opacity=".72" font-family="sans-serif" font-size="15">Coral</text>
+  <path d="M24 434H776" stroke="#c76850" stroke-width="2" opacity=".54"/>
+</svg>

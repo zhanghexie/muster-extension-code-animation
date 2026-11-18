@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>动映 · 代码动画</title><script src="../__sdk__/sdk.js"></script><link rel="stylesheet" href="../__sdk__/theme.css"><link rel="stylesheet" href="style.css"></head>
+<body><header><div class="bar"><div class="brand">代码动画</div><nav aria-label="主导航"><button id="stylesNav">风格库</button><button id="worksNav">我的作品 <i id="workTotal">0</i></button></nav></div></header>
+<main><section id="stylesPage">
+<div class="title"><div><h1>挑选风格</h1><p>按画面挑，勾选后可放在一起比较。</p></div><input type="search" id="search" placeholder="搜索风格、编号、用途…" aria-label="搜索风格"></div>
+<div class="filters" id="series"></div>
+<div class="tools"><div class="chips" id="media"></div><div class="toolsRight"><span id="matches"></span><button class="action" id="shortlist">已选清单 <i id="pickCount">0</i></button></div></div>
+<div class="grid" id="stylesGrid"></div></section>
+<section id="worksPage" hidden><div class="title"><div><h1>我的作品</h1><p>集中查看动画文件、关联风格和待制作的作品。</p></div><div class="actions"><button id="newWork">＋ 新建作品</button><button class="action" id="importWork">↑ 导入作品</button></div></div>
+<div class="tools"><div class="chips" id="workFilters"></div><div class="toolsRight"><input type="search" id="workSearch" placeholder="搜索作品或风格…" aria-label="搜索作品"><select id="order" aria-label="作品排序"><option value="date">最近修改</option><option value="title">按名称</option></select></div></div><div class="workgrid" id="workGrid"></div></section>
+<footer>素材整理 · 俯仰观照　/　<a href="https://github.com/XiaoyeCodes/code-animation-prompts" target="_blank" rel="noreferrer">code-animation-prompts ↗</a>　·　<a href="https://github.com/XiaoyeCodes/code-animation-prompts/blob/main/LICENSE.md" target="_blank">素材来源</a></footer></main>
+<dialog id="dialog" aria-labelledby="dialogTitle"><div class="dialogCard"><div class="dhead"><div><small id="eyebrow"></small><h2 id="dialogTitle"></h2></div><button id="close" aria-label="关闭">×</button></div><div id="dialogBody"></div></div></dialog>
+<p role="status" id="status" hidden></p>
+<script src="motion.js"></script><script src="app.js"></script></body></html>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X5 desc-X5">
+  <title id="title-X5">卡点素材剪辑</title>
+  <desc id="desc-X5">X5 · code-video · 快剪</desc>
+  <defs>
+    <linearGradient id="bg-X5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#142b2d"/><stop offset="0.55" stop-color="#48d597"/><stop offset="1" stop-color="#e3df78"/>
+    </linearGradient>
+    <radialGradient id="glow-X5" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#dff8ee" stop-opacity=".36"/><stop offset="1" stop-color="#142b2d" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X5" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#070b0e" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X5)"/><rect width="800" height="450" fill="url(#glow-X5)"/><rect width="800" height="450" fill="url(#grid-X5)"/>
+  <g data-motif="geometry"><circle cx="355.86" cy="331.59" r="18.55" fill="#dff8ee" opacity="0.451"/><rect x="427.34" y="41.37" width="76.39" height="76.39" rx="7.68" fill="#070b0e" opacity="0.351" transform="rotate(38.5 465.53 79.57)"/><path d="M535.75 122.2L554.31 159.33H517.18Z" fill="#dff8ee" opacity="0.747"/><circle cx="277.38" cy="225.1" r="60.75" fill="#e3df78" opacity="0.487"/><rect x="125.01" y="69.07" width="71.58" height="71.58" rx="16" fill="#e3df78" opacity="0.435" transform="rotate(27.9 160.8 104.86)"/><path d="M454.69 127.79L487.79 193.98H421.6Z" fill="#dff8ee" opacity="0.411"/><circle cx="638.84" cy="132.07" r="61.14" fill="#dff8ee" opacity="0.538"/><rect x="394.14" y="63.1" width="75.94" height="75.94" rx="14.81" fill="#070b0e" opacity="0.754" transform="rotate(-9.13 432.11 101.08)"/><path d="M426.11 106.25L453.47 160.96H398.76Z" fill="#dff8ee" opacity="0.317"/><circle cx="441.32" cy="242.03" r="69.5" fill="none" stroke="#070b0e" stroke-width="4" opacity=".86"/><path d="M399.32 242.03h84M441.32 200.03v84" stroke="#dff8ee" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#142b2d" opacity=".72" stroke="#070b0e" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#070b0e" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X5</text>
+  <text x="776" y="426" text-anchor="end" fill="#070b0e" opacity=".72" font-family="sans-serif" font-size="15">卡点素材剪辑</text>
+  <path d="M24 434H776" stroke="#dff8ee" stroke-width="2" opacity=".54"/>
+</svg>

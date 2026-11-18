@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-H4 desc-H4">
+  <title id="title-H4">Bold Poster</title>
+  <desc id="desc-H4">H4 · 现成版式 · 倾斜的花体大字，奶油底红色强调，杂志封面感</desc>
+  <defs>
+    <linearGradient id="bg-H4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c8d5e3"/><stop offset="0.55" stop-color="#2d4f77"/><stop offset="1" stop-color="#c76850"/>
+    </linearGradient>
+    <radialGradient id="glow-H4" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#182334" stop-opacity=".36"/><stop offset="1" stop-color="#c8d5e3" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-H4" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f2eee5" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-H4)"/><rect width="800" height="450" fill="url(#glow-H4)"/><rect width="800" height="450" fill="url(#grid-H4)"/>
+  <g data-motif="geometry"><circle cx="215.9" cy="213.28" r="49.41" fill="#182334" opacity="0.541"/><rect x="375.38" y="68.44" width="83.92" height="83.92" rx="7.78" fill="#f2eee5" opacity="0.525" transform="rotate(6.36 417.34 110.4)"/><path d="M445.67 106.23L495.94 206.77H395.4Z" fill="#182334" opacity="0.33"/><circle cx="397.18" cy="178.2" r="29.64" fill="#c76850" opacity="0.426"/><rect x="636.02" y="131.67" width="64.52" height="64.52" rx="14.99" fill="#c76850" opacity="0.498" transform="rotate(-24.92 668.28 163.93)"/><path d="M123.72 118.86L158.85 189.12H88.59Z" fill="#182334" opacity="0.459"/><circle cx="210.58" cy="118.72" r="29.62" fill="#182334" opacity="0.779"/><rect x="498.3" y="160.79" width="64.85" height="64.85" rx="8.4" fill="#f2eee5" opacity="0.256" transform="rotate(-25.61 530.72 193.21)"/><path d="M387.62 162.78L411.44 210.42H363.8Z" fill="#182334" opacity="0.497"/><circle cx="427.71" cy="198.49" r="65.17" fill="none" stroke="#f2eee5" stroke-width="4" opacity=".86"/><path d="M385.71 198.49h84M427.71 156.49v84" stroke="#182334" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#c8d5e3" opacity=".72" stroke="#f2eee5" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#f2eee5" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">H4</text>
+  <text x="776" y="426" text-anchor="end" fill="#f2eee5" opacity=".72" font-family="sans-serif" font-size="15">Bold Poster</text>
+  <path d="M24 434H776" stroke="#182334" stroke-width="2" opacity=".54"/>
+</svg>

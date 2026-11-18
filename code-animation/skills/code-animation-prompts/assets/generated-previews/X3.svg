@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X3 desc-X3">
+  <title id="title-X3">沙画</title>
+  <desc id="desc-X3">X3 · code-video · 回忆、情绪，感受讲解很合适</desc>
+  <defs>
+    <linearGradient id="bg-X3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3df78"/><stop offset="0.55" stop-color="#dff8ee"/><stop offset="1" stop-color="#070b0e"/>
+    </linearGradient>
+    <radialGradient id="glow-X3" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#142b2d" stop-opacity=".36"/><stop offset="1" stop-color="#e3df78" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X3" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#48d597" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X3)"/><rect width="800" height="450" fill="url(#glow-X3)"/><rect width="800" height="450" fill="url(#grid-X3)"/>
+  <g data-motif="geometry"><circle cx="583.18" cy="158.74" r="38.66" fill="#142b2d" opacity="0.757"/><rect x="610.47" y="166.95" width="91.15" height="91.15" rx="6.1" fill="#48d597" opacity="0.584" transform="rotate(-11.48 656.05 212.53)"/><path d="M639.99 191.36L678.66 268.7H601.33Z" fill="#142b2d" opacity="0.513"/><circle cx="404.94" cy="232.52" r="46.98" fill="#070b0e" opacity="0.355"/><rect x="110.42" y="218.29" width="126.03" height="126.03" rx="12.44" fill="#070b0e" opacity="0.553" transform="rotate(13.15 173.43 281.3)"/><path d="M300.97 249.71L317.57 282.91H284.36Z" fill="#142b2d" opacity="0.717"/><circle cx="586.25" cy="168.7" r="30.63" fill="#142b2d" opacity="0.334"/><rect x="81.35" y="76.14" width="121.28" height="121.28" rx="16.81" fill="#48d597" opacity="0.299" transform="rotate(-33.71 141.99 136.78)"/><path d="M631.58 33.18L683.16 136.34H580Z" fill="#142b2d" opacity="0.55"/><circle cx="395.06" cy="233.86" r="80.87" fill="none" stroke="#48d597" stroke-width="4" opacity=".86"/><path d="M353.06 233.86h84M395.06 191.86v84" stroke="#142b2d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#e3df78" opacity=".72" stroke="#48d597" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#48d597" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X3</text>
+  <text x="776" y="426" text-anchor="end" fill="#48d597" opacity=".72" font-family="sans-serif" font-size="15">沙画</text>
+  <path d="M24 434H776" stroke="#142b2d" stroke-width="2" opacity=".54"/>
+</svg>

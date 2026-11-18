@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-Z14 desc-Z14">
+  <title id="title-Z14">彩铅手绘</title>
+  <desc id="desc-Z14">Z14 · 中国风 · 彩铅排线，纸张纹理 / colored pencil on textured paper</desc>
+  <defs>
+    <linearGradient id="bg-Z14" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e3543"/><stop offset="0.55" stop-color="#c44b3d"/><stop offset="1" stop-color="#dca85f"/>
+    </linearGradient>
+    <radialGradient id="glow-Z14" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#e7e1c4" stop-opacity=".36"/><stop offset="1" stop-color="#1e3543" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-Z14" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#101b25" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-Z14)"/><rect width="800" height="450" fill="url(#glow-Z14)"/><rect width="800" height="450" fill="url(#grid-Z14)"/>
+  <g data-motif="paper"><rect x="144" y="76.5" width="480" height="256.5" rx="7" fill="#101b25" opacity=".92" transform="rotate(-4 384 202.5)"/><rect x="192" y="103.5" width="480" height="256.5" rx="7" fill="#e7e1c4" opacity=".27" transform="rotate(6 432 225)"/><path d="M224 139.5h353.55" stroke="#1e3543" stroke-width="5.75" opacity=".42"/><path d="M224 168.75h415.89" stroke="#1e3543" stroke-width="5.86" opacity=".42"/><path d="M224 198h292.9" stroke="#1e3543" stroke-width="5.57" opacity=".42"/><path d="M224 227.25h280.35" stroke="#1e3543" stroke-width="5.08" opacity=".42"/><path d="M224 256.5h400.55" stroke="#1e3543" stroke-width="5.32" opacity=".42"/><path d="M224 285.75h367.66" stroke="#1e3543" stroke-width="6.9" opacity=".42"/><path d="M504 139.5l85.11 88.45l-95.15 79.67z" fill="#dca85f" opacity=".78"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#1e3543" opacity=".72" stroke="#101b25" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#101b25" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">Z14</text>
+  <text x="776" y="426" text-anchor="end" fill="#101b25" opacity=".72" font-family="sans-serif" font-size="15">彩铅手绘</text>
+  <path d="M24 434H776" stroke="#e7e1c4" stroke-width="2" opacity=".54"/>
+</svg>

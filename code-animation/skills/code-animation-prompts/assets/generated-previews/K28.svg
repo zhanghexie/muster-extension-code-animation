@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K28 desc-K28">
+  <title id="title-K28">像素</title>
+  <desc id="desc-K28">K28 · 画面风格 · 游戏感、复古</desc>
+  <defs>
+    <linearGradient id="bg-K28" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1848d"/><stop offset="0.55" stop-color="#6b76d6"/><stop offset="1" stop-color="#26305a"/>
+    </linearGradient>
+    <radialGradient id="glow-K28" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#fff3e5" stop-opacity=".36"/><stop offset="1" stop-color="#f1848d" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K28" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffcabd" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K28)"/><rect width="800" height="450" fill="url(#glow-K28)"/><rect width="800" height="450" fill="url(#grid-K28)"/>
+  <g data-motif="geometry"><circle cx="506.37" cy="306.36" r="23.7" fill="#fff3e5" opacity="0.424"/><rect x="629.43" y="287.75" width="36.24" height="36.24" rx="16.32" fill="#ffcabd" opacity="0.749" transform="rotate(12.59 647.55 305.87)"/><path d="M643.02 32.28L698.26 142.78H587.77Z" fill="#fff3e5" opacity="0.475"/><circle cx="190.72" cy="161.78" r="29.76" fill="#26305a" opacity="0.741"/><rect x="573.73" y="105.95" width="78.98" height="78.98" rx="10.92" fill="#26305a" opacity="0.828" transform="rotate(3.5 613.22 145.44)"/><path d="M609 214.23L664.06 324.35H553.94Z" fill="#fff3e5" opacity="0.586"/><circle cx="179.27" cy="165.21" r="20.84" fill="#fff3e5" opacity="0.669"/><rect x="330.72" y="113.48" width="88.14" height="88.14" rx="22.58" fill="#ffcabd" opacity="0.553" transform="rotate(-9.31 374.79 157.55)"/><path d="M522.52 266.66L561.73 345.08H483.31Z" fill="#fff3e5" opacity="0.537"/><circle cx="439.46" cy="201.75" r="79.51" fill="none" stroke="#ffcabd" stroke-width="4" opacity=".86"/><path d="M397.46 201.75h84M439.46 159.75v84" stroke="#fff3e5" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#f1848d" opacity=".72" stroke="#ffcabd" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#ffcabd" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K28</text>
+  <text x="776" y="426" text-anchor="end" fill="#ffcabd" opacity=".72" font-family="sans-serif" font-size="15">像素</text>
+  <path d="M24 434H776" stroke="#fff3e5" stroke-width="2" opacity=".54"/>
+</svg>

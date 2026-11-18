@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K33 desc-K33">
+  <title id="title-K33">地铁图</title>
+  <desc id="desc-K33">K33 · 画面风格 · 讲流程、讲路线</desc>
+  <defs>
+    <linearGradient id="bg-K33" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b76d6"/><stop offset="0.55" stop-color="#26305a"/><stop offset="1" stop-color="#fff3e5"/>
+    </linearGradient>
+    <radialGradient id="glow-K33" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#ffcabd" stop-opacity=".36"/><stop offset="1" stop-color="#6b76d6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K33" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f1848d" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K33)"/><rect width="800" height="450" fill="url(#glow-K33)"/><rect width="800" height="450" fill="url(#grid-K33)"/>
+  <g data-motif="geometry"><circle cx="256.16" cy="320.38" r="58.82" fill="#ffcabd" opacity="0.827"/><rect x="329.64" y="55.11" width="43.94" height="43.94" rx="16.9" fill="#f1848d" opacity="0.778" transform="rotate(22.65 351.61 77.08)"/><path d="M500.22 13.67L562.06 137.35H438.38Z" fill="#ffcabd" opacity="0.351"/><circle cx="314.97" cy="315.8" r="42.76" fill="#fff3e5" opacity="0.355"/><rect x="208.44" y="192.89" width="48.13" height="48.13" rx="18.9" fill="#fff3e5" opacity="0.414" transform="rotate(-38.42 232.5 216.96)"/><path d="M219.81 149.17L263.56 236.66H176.07Z" fill="#ffcabd" opacity="0.408"/><circle cx="532.02" cy="92.77" r="38.74" fill="#ffcabd" opacity="0.424"/><rect x="317.77" y="222.34" width="44.99" height="44.99" rx="17.5" fill="#f1848d" opacity="0.83" transform="rotate(-4.53 340.27 244.84)"/><path d="M233.45 17.35L292.43 135.31H174.47Z" fill="#ffcabd" opacity="0.419"/><circle cx="400.71" cy="221.92" r="64.36" fill="none" stroke="#f1848d" stroke-width="4" opacity=".86"/><path d="M358.71 221.92h84M400.71 179.92v84" stroke="#ffcabd" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#6b76d6" opacity=".72" stroke="#f1848d" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#f1848d" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K33</text>
+  <text x="776" y="426" text-anchor="end" fill="#f1848d" opacity=".72" font-family="sans-serif" font-size="15">地铁图</text>
+  <path d="M24 434H776" stroke="#ffcabd" stroke-width="2" opacity=".54"/>
+</svg>

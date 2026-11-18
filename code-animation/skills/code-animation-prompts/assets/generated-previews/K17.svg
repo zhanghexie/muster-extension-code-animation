@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K17 desc-K17">
+  <title id="title-K17">几何</title>
+  <desc id="desc-K17">K17 · 画面风格 · 讲结构、讲系统</desc>
+  <defs>
+    <linearGradient id="bg-K17" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b76d6"/><stop offset="0.55" stop-color="#26305a"/><stop offset="1" stop-color="#fff3e5"/>
+    </linearGradient>
+    <radialGradient id="glow-K17" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#ffcabd" stop-opacity=".36"/><stop offset="1" stop-color="#6b76d6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K17" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f1848d" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K17)"/><rect width="800" height="450" fill="url(#glow-K17)"/><rect width="800" height="450" fill="url(#grid-K17)"/>
+  <g data-motif="geometry"><circle cx="237.78" cy="286.83" r="33.15" fill="#ffcabd" opacity="0.59"/><rect x="214.45" y="23.41" width="116.27" height="116.27" rx="12.51" fill="#f1848d" opacity="0.402" transform="rotate(19.18 272.58 81.55)"/><path d="M363.9 293.68L395.81 357.49H332Z" fill="#ffcabd" opacity="0.308"/><circle cx="448.87" cy="157.4" r="57.14" fill="#fff3e5" opacity="0.317"/><rect x="415.98" y="169.8" width="124.09" height="124.09" rx="13.06" fill="#fff3e5" opacity="0.782" transform="rotate(-30.67 478.02 231.85)"/><path d="M230.21 115.16L257.08 168.9H203.34Z" fill="#ffcabd" opacity="0.662"/><circle cx="543.78" cy="283.32" r="12.72" fill="#ffcabd" opacity="0.745"/><rect x="451.86" y="148.11" width="32.9" height="32.9" rx="7.19" fill="#f1848d" opacity="0.276" transform="rotate(0.38 468.31 164.57)"/><path d="M262.2 110.57L326.26 238.7H198.13Z" fill="#ffcabd" opacity="0.722"/><circle cx="417.16" cy="228.62" r="82.08" fill="none" stroke="#f1848d" stroke-width="4" opacity=".86"/><path d="M375.16 228.62h84M417.16 186.62v84" stroke="#ffcabd" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#6b76d6" opacity=".72" stroke="#f1848d" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#f1848d" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K17</text>
+  <text x="776" y="426" text-anchor="end" fill="#f1848d" opacity=".72" font-family="sans-serif" font-size="15">几何</text>
+  <path d="M24 434H776" stroke="#ffcabd" stroke-width="2" opacity=".54"/>
+</svg>

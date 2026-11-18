@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-M36 desc-M36">
+  <title id="title-M36">破框</title>
+  <desc id="desc-M36">M36 · 文字和金句类 · &amp;quot;跳出原来的想法&amp;quot;、&amp;quot;不再觉得跟我没关系&amp;quot;这种转折。</desc>
+  <defs>
+    <linearGradient id="bg-M36" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff4d6"/><stop offset="0.55" stop-color="#1d1727"/><stop offset="1" stop-color="#45304d"/>
+    </linearGradient>
+    <radialGradient id="glow-M36" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#ef8b72" stop-opacity=".36"/><stop offset="1" stop-color="#fff4d6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-M36" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f6c883" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-M36)"/><rect width="800" height="450" fill="url(#glow-M36)"/><rect width="800" height="450" fill="url(#grid-M36)"/>
+  <g data-motif="type"><rect x="93.5" y="74.09" width="431.87" height="9.71" rx="3" fill="#ef8b72" opacity="0.595"/><rect x="125.45" y="117.79" width="389.21" height="6.11" rx="3" fill="#f6c883" opacity="0.637"/><rect x="140.95" y="154.89" width="455.07" height="5.91" rx="3" fill="#f6c883" opacity="0.514"/><rect x="113.82" y="194.6" width="469.15" height="5.22" rx="3" fill="#ef8b72" opacity="0.504"/><rect x="107.47" y="240.12" width="533.98" height="5.57" rx="3" fill="#f6c883" opacity="0.347"/><rect x="146.71" y="279.04" width="446.7" height="5.27" rx="3" fill="#f6c883" opacity="0.431"/><rect x="108.27" y="315.58" width="403.09" height="5.33" rx="3" fill="#ef8b72" opacity="0.564"/><rect x="134.76" y="361.65" width="432.23" height="9.02" rx="3" fill="#f6c883" opacity="0.372"/><text x="421.57" y="220.11" text-anchor="middle" fill="#f6c883" opacity=".9" font-family="sans-serif" font-size="58.5" font-weight="700">M36</text><path d="M485.57 144.11v95.19" stroke="#ef8b72" stroke-width="5" opacity=".9"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#fff4d6" opacity=".72" stroke="#f6c883" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#f6c883" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">M36</text>
+  <text x="776" y="426" text-anchor="end" fill="#f6c883" opacity=".72" font-family="sans-serif" font-size="15">破框</text>
+  <path d="M24 434H776" stroke="#ef8b72" stroke-width="2" opacity=".54"/>
+</svg>

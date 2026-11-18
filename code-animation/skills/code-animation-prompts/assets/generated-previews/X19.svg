@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X19 desc-X19">
+  <title id="title-X19">纪录片</title>
+  <desc id="desc-X19">X19 · code-video · 认真讲一件事</desc>
+  <defs>
+    <linearGradient id="bg-X19" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3df78"/><stop offset="0.55" stop-color="#dff8ee"/><stop offset="1" stop-color="#070b0e"/>
+    </linearGradient>
+    <radialGradient id="glow-X19" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#142b2d" stop-opacity=".36"/><stop offset="1" stop-color="#e3df78" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X19" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#48d597" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X19)"/><rect width="800" height="450" fill="url(#glow-X19)"/><rect width="800" height="450" fill="url(#grid-X19)"/>
+  <g data-motif="geometry"><circle cx="512.04" cy="266.17" r="51.32" fill="#142b2d" opacity="0.796"/><rect x="179.62" y="283.35" width="45.94" height="45.94" rx="16.11" fill="#48d597" opacity="0.639" transform="rotate(24.97 202.59 306.32)"/><path d="M282.85 164.35L309.86 218.35H255.85Z" fill="#142b2d" opacity="0.43"/><circle cx="382.39" cy="75.49" r="41.5" fill="#070b0e" opacity="0.7"/><rect x="77.86" y="136.81" width="95.4" height="95.4" rx="14.81" fill="#070b0e" opacity="0.369" transform="rotate(6.57 125.55 184.5)"/><path d="M369.3 241.21L432.09 366.8H306.5Z" fill="#142b2d" opacity="0.285"/><circle cx="193.69" cy="288" r="29.13" fill="#142b2d" opacity="0.67"/><rect x="377.37" y="59.53" width="88.45" height="88.45" rx="22.04" fill="#48d597" opacity="0.411" transform="rotate(-27.55 421.6 103.76)"/><path d="M618.87 65.11L649.9 127.19H587.83Z" fill="#142b2d" opacity="0.467"/><circle cx="443.03" cy="219.5" r="86" fill="none" stroke="#48d597" stroke-width="4" opacity=".86"/><path d="M401.03 219.5h84M443.03 177.5v84" stroke="#142b2d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#e3df78" opacity=".72" stroke="#48d597" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#48d597" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X19</text>
+  <text x="776" y="426" text-anchor="end" fill="#48d597" opacity=".72" font-family="sans-serif" font-size="15">纪录片</text>
+  <path d="M24 434H776" stroke="#142b2d" stroke-width="2" opacity=".54"/>
+</svg>

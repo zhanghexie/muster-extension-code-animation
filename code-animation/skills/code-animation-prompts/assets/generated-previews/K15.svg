@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K15 desc-K15">
+  <title id="title-K15">橡皮管 1930</title>
+  <desc id="desc-K15">K15 · 画面风格 · 复古、好玩</desc>
+  <defs>
+    <linearGradient id="bg-K15" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26305a"/><stop offset="0.55" stop-color="#fff3e5"/><stop offset="1" stop-color="#ffcabd"/>
+    </linearGradient>
+    <radialGradient id="glow-K15" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#f1848d" stop-opacity=".36"/><stop offset="1" stop-color="#26305a" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K15" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6b76d6" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K15)"/><rect width="800" height="450" fill="url(#glow-K15)"/><rect width="800" height="450" fill="url(#grid-K15)"/>
+  <g data-motif="geometry"><circle cx="604.51" cy="181.75" r="54.85" fill="#f1848d" opacity="0.791"/><rect x="401.34" y="92.57" width="37.96" height="37.96" rx="16.92" fill="#6b76d6" opacity="0.404" transform="rotate(-30.31 420.32 111.55)"/><path d="M139.9 47.6L186.12 140.04H93.68Z" fill="#f1848d" opacity="0.564"/><circle cx="583.64" cy="137.34" r="63.09" fill="#ffcabd" opacity="0.433"/><rect x="146.05" y="86.9" width="46.97" height="46.97" rx="16.25" fill="#ffcabd" opacity="0.74" transform="rotate(8.45 169.53 110.39)"/><path d="M531.01 290.61L553.24 335.07H508.78Z" fill="#f1848d" opacity="0.542"/><circle cx="661.45" cy="143.27" r="57.37" fill="#f1848d" opacity="0.8"/><rect x="141.85" y="226.06" width="129.55" height="129.55" rx="7.97" fill="#6b76d6" opacity="0.335" transform="rotate(-1.95 206.62 290.84)"/><path d="M343.47 206.69L390.82 301.4H296.11Z" fill="#f1848d" opacity="0.386"/><circle cx="440.56" cy="210.33" r="72.24" fill="none" stroke="#6b76d6" stroke-width="4" opacity=".86"/><path d="M398.56 210.33h84M440.56 168.33v84" stroke="#f1848d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#26305a" opacity=".72" stroke="#6b76d6" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#6b76d6" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K15</text>
+  <text x="776" y="426" text-anchor="end" fill="#6b76d6" opacity=".72" font-family="sans-serif" font-size="15">橡皮管 1930</text>
+  <path d="M24 434H776" stroke="#f1848d" stroke-width="2" opacity=".54"/>
+</svg>

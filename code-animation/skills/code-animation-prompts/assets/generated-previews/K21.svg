@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K21 desc-K21">
+  <title id="title-K21">手工纸艺</title>
+  <desc id="desc-K21">K21 · 画面风格 · 温暖的科普</desc>
+  <defs>
+    <linearGradient id="bg-K21" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1848d"/><stop offset="0.55" stop-color="#6b76d6"/><stop offset="1" stop-color="#26305a"/>
+    </linearGradient>
+    <radialGradient id="glow-K21" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#fff3e5" stop-opacity=".36"/><stop offset="1" stop-color="#f1848d" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K21" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffcabd" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K21)"/><rect width="800" height="450" fill="url(#glow-K21)"/><rect width="800" height="450" fill="url(#grid-K21)"/>
+  <g data-motif="paper"><rect x="144" y="76.5" width="480" height="256.5" rx="7" fill="#ffcabd" opacity=".92" transform="rotate(-4 384 202.5)"/><rect x="192" y="103.5" width="480" height="256.5" rx="7" fill="#fff3e5" opacity=".27" transform="rotate(6 432 225)"/><path d="M224 139.5h396.68" stroke="#f1848d" stroke-width="5.2" opacity=".42"/><path d="M224 168.75h305.99" stroke="#f1848d" stroke-width="4.91" opacity=".42"/><path d="M224 198h315.76" stroke="#f1848d" stroke-width="4.77" opacity=".42"/><path d="M224 227.25h291.17" stroke="#f1848d" stroke-width="3.15" opacity=".42"/><path d="M224 256.5h340.09" stroke="#f1848d" stroke-width="4.7" opacity=".42"/><path d="M224 285.75h341.97" stroke="#f1848d" stroke-width="6.9" opacity=".42"/><path d="M504 139.5l84.23 75.67l-95.79 80.98z" fill="#26305a" opacity=".78"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#f1848d" opacity=".72" stroke="#ffcabd" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#ffcabd" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K21</text>
+  <text x="776" y="426" text-anchor="end" fill="#ffcabd" opacity=".72" font-family="sans-serif" font-size="15">手工纸艺</text>
+  <path d="M24 434H776" stroke="#fff3e5" stroke-width="2" opacity=".54"/>
+</svg>

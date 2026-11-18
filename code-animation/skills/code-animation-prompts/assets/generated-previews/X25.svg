@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X25 desc-X25">
+  <title id="title-X25">天气预报</title>
+  <desc id="desc-X25">X25 · code-video · 用天气讲情绪，感受讲解很合适</desc>
+  <defs>
+    <linearGradient id="bg-X25" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dff8ee"/><stop offset="0.55" stop-color="#070b0e"/><stop offset="1" stop-color="#142b2d"/>
+    </linearGradient>
+    <radialGradient id="glow-X25" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#48d597" stop-opacity=".36"/><stop offset="1" stop-color="#dff8ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X25" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#e3df78" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X25)"/><rect width="800" height="450" fill="url(#glow-X25)"/><rect width="800" height="450" fill="url(#grid-X25)"/>
+  <g data-motif="geometry"><circle cx="179.11" cy="206.72" r="25.92" fill="#48d597" opacity="0.599"/><rect x="264.9" y="56.45" width="106.28" height="106.28" rx="13.33" fill="#e3df78" opacity="0.32" transform="rotate(-26.43 318.04 109.6)"/><path d="M580.11 113.9L614.22 182.11H546.01Z" fill="#48d597" opacity="0.627"/><circle cx="414.85" cy="216.92" r="57.75" fill="#142b2d" opacity="0.466"/><rect x="339.42" y="96.66" width="123.77" height="123.77" rx="13.82" fill="#142b2d" opacity="0.588" transform="rotate(-12.53 401.31 158.54)"/><path d="M218.3 245.81L268.1 345.41H168.5Z" fill="#48d597" opacity="0.488"/><circle cx="345.54" cy="223.42" r="40.6" fill="#48d597" opacity="0.556"/><rect x="604.98" y="186.7" width="37.76" height="37.76" rx="13.32" fill="#e3df78" opacity="0.387" transform="rotate(37.64 623.86 205.58)"/><path d="M626.78 194.07L653.36 247.24H600.19Z" fill="#48d597" opacity="0.594"/><circle cx="425.55" cy="211.86" r="82.81" fill="none" stroke="#e3df78" stroke-width="4" opacity=".86"/><path d="M383.55 211.86h84M425.55 169.86v84" stroke="#48d597" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#dff8ee" opacity=".72" stroke="#e3df78" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#e3df78" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X25</text>
+  <text x="776" y="426" text-anchor="end" fill="#e3df78" opacity=".72" font-family="sans-serif" font-size="15">天气预报</text>
+  <path d="M24 434H776" stroke="#48d597" stroke-width="2" opacity=".54"/>
+</svg>

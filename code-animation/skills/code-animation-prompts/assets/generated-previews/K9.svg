@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K9 desc-K9">
+  <title id="title-K9">涂鸦</title>
+  <desc id="desc-K9">K9 · 画面风格 · 讲&amp;quot;以前的我&amp;quot;、自嘲</desc>
+  <defs>
+    <linearGradient id="bg-K9" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26305a"/><stop offset="0.55" stop-color="#fff3e5"/><stop offset="1" stop-color="#ffcabd"/>
+    </linearGradient>
+    <radialGradient id="glow-K9" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#f1848d" stop-opacity=".36"/><stop offset="1" stop-color="#26305a" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K9" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6b76d6" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K9)"/><rect width="800" height="450" fill="url(#glow-K9)"/><rect width="800" height="450" fill="url(#grid-K9)"/>
+  <g data-motif="geometry"><circle cx="355.55" cy="90.44" r="29.06" fill="#f1848d" opacity="0.605"/><rect x="296.85" y="279.44" width="92.27" height="92.27" rx="7.54" fill="#6b76d6" opacity="0.328" transform="rotate(-31.82 342.98 325.57)"/><path d="M660.62 137.2L674.27 164.51H646.96Z" fill="#f1848d" opacity="0.304"/><circle cx="553.6" cy="194.06" r="61.13" fill="#ffcabd" opacity="0.386"/><rect x="304.46" y="260.51" width="60.99" height="60.99" rx="15.33" fill="#ffcabd" opacity="0.528" transform="rotate(-27.29 334.96 291.01)"/><path d="M657.79 155.95L692.64 225.65H622.95Z" fill="#f1848d" opacity="0.413"/><circle cx="174.11" cy="222.99" r="17.76" fill="#f1848d" opacity="0.407"/><rect x="654.44" y="237.82" width="33.05" height="33.05" rx="21.19" fill="#6b76d6" opacity="0.696" transform="rotate(21.05 670.96 254.35)"/><path d="M437.83 211.68L491.88 319.79H383.77Z" fill="#f1848d" opacity="0.566"/><circle cx="417.9" cy="218.43" r="71.28" fill="none" stroke="#6b76d6" stroke-width="4" opacity=".86"/><path d="M375.9 218.43h84M417.9 176.43v84" stroke="#f1848d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#26305a" opacity=".72" stroke="#6b76d6" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#6b76d6" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K9</text>
+  <text x="776" y="426" text-anchor="end" fill="#6b76d6" opacity=".72" font-family="sans-serif" font-size="15">涂鸦</text>
+  <path d="M24 434H776" stroke="#f1848d" stroke-width="2" opacity=".54"/>
+</svg>

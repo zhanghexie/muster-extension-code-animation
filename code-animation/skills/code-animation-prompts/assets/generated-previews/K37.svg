@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K37 desc-K37">
+  <title id="title-K37">哥特</title>
+  <desc id="desc-K37">K37 · 画面风格 · 讲恐惧、讲黑暗面</desc>
+  <defs>
+    <linearGradient id="bg-K37" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26305a"/><stop offset="0.55" stop-color="#fff3e5"/><stop offset="1" stop-color="#ffcabd"/>
+    </linearGradient>
+    <radialGradient id="glow-K37" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#f1848d" stop-opacity=".36"/><stop offset="1" stop-color="#26305a" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K37" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6b76d6" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K37)"/><rect width="800" height="450" fill="url(#glow-K37)"/><rect width="800" height="450" fill="url(#grid-K37)"/>
+  <g data-motif="geometry"><circle cx="420.8" cy="295.88" r="54.43" fill="#f1848d" opacity="0.386"/><rect x="272.24" y="58.36" width="53.33" height="53.33" rx="17.25" fill="#6b76d6" opacity="0.384" transform="rotate(31.39 298.9 85.02)"/><path d="M434.39 287.54L473.51 365.77H395.27Z" fill="#f1848d" opacity="0.302"/><circle cx="292.71" cy="267.9" r="44.17" fill="#ffcabd" opacity="0.706"/><rect x="397.19" y="196.92" width="37.16" height="37.16" rx="14.35" fill="#ffcabd" opacity="0.409" transform="rotate(32.63 415.77 215.5)"/><path d="M239.84 58.9L297.5 174.22H182.18Z" fill="#f1848d" opacity="0.401"/><circle cx="190.02" cy="229.25" r="25.58" fill="#f1848d" opacity="0.721"/><rect x="140.05" y="178.93" width="61.55" height="61.55" rx="15.46" fill="#6b76d6" opacity="0.442" transform="rotate(6.91 170.82 209.71)"/><path d="M277.25 176.92L293.29 209.01H261.21Z" fill="#f1848d" opacity="0.774"/><circle cx="403.15" cy="237.36" r="87.48" fill="none" stroke="#6b76d6" stroke-width="4" opacity=".86"/><path d="M361.15 237.36h84M403.15 195.36v84" stroke="#f1848d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#26305a" opacity=".72" stroke="#6b76d6" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#6b76d6" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K37</text>
+  <text x="776" y="426" text-anchor="end" fill="#6b76d6" opacity=".72" font-family="sans-serif" font-size="15">哥特</text>
+  <path d="M24 434H776" stroke="#f1848d" stroke-width="2" opacity=".54"/>
+</svg>

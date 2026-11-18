@@ -1,0 +1,392 @@
+{
+  "id": "code-animation",
+  "name": "代码动画",
+  "version": "0.3.1",
+  "description": "按画面挑选与比较代码动画风格，在工作区集中管理、预览作品并继续制作。",
+  "icon": "builtin-extension:video-player",
+  "scope": "global",
+  "surface": {
+    "kind": "sidebar",
+    "entry": "panel/panel.html",
+    "title": "代码动画"
+  },
+  "domain": {
+    "entry": "domain.mjs",
+    "queries": [
+      "catalog",
+      "prompt",
+      "library"
+    ],
+    "commands": [
+      "picks.set",
+      "work.save",
+      "work.star",
+      "work.attach",
+      "work.register",
+      "work.remove",
+      "work.validation",
+      "work.render"
+    ],
+    "events": [
+      "state.changed"
+    ],
+    "queryDefs": [
+      {
+        "id": "catalog",
+        "title": "读取风格索引",
+        "permission": "read",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "prompt",
+        "title": "读取风格提示词",
+        "permission": "read",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "library",
+        "title": "查询工作区作品和已选风格",
+        "permission": "read",
+        "parameters": {
+          "type": "object",
+          "properties": {},
+          "additionalProperties": false
+        }
+      }
+    ],
+    "commandDefs": [
+      {
+        "id": "picks.set",
+        "title": "选择或取消风格",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "selected": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "selected"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.save",
+        "title": "创建或修改作品资料",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "styles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "entryPath": {
+              "type": "string"
+            },
+            "render": {
+              "type": "object",
+              "properties": {
+                "duration": {
+                  "type": "number"
+                },
+                "fps": {
+                  "type": "integer"
+                },
+                "width": {
+                  "type": "integer"
+                },
+                "height": {
+                  "type": "integer"
+                },
+                "audio": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "subtitles": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            },
+            "expected": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "title",
+            "styles"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.star",
+        "title": "收藏作品",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "favorite": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "favorite"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.attach",
+        "title": "关联导入文件",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "filename": {
+              "type": "string"
+            },
+            "assetId": {
+              "type": "string"
+            },
+            "expected": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "assetId",
+            "filename"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.register",
+        "title": "登记当前任务的 HTML 成品",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "relativePath": {
+              "type": "string"
+            },
+            "render": {
+              "type": "object",
+              "properties": {
+                "duration": {
+                  "type": "number"
+                },
+                "fps": {
+                  "type": "integer"
+                },
+                "width": {
+                  "type": "integer"
+                },
+                "height": {
+                  "type": "integer"
+                },
+                "audio": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "subtitles": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "id",
+            "relativePath"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.remove",
+        "title": "移除作品记录",
+        "permission": "dangerous",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "expected": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "expected"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.validation",
+        "title": "记录动画验证结果",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string",
+              "enum": [
+                "unknown",
+                "checking",
+                "passed",
+                "failed"
+              ]
+            },
+            "frames": {
+              "type": "array",
+              "items": {
+                "type": "number"
+              }
+            },
+            "errors": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "expected": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "status"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "work.render",
+        "title": "记录动画渲染状态",
+        "permission": "edit",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "status": {
+              "type": "string",
+              "enum": [
+                "idle",
+                "queued",
+                "preparing",
+                "rendering",
+                "finalizing",
+                "completed",
+                "failed",
+                "cancelled"
+              ]
+            },
+            "progress": {
+              "type": "number"
+            },
+            "jobId": {
+              "type": "string"
+            },
+            "assetId": {
+              "type": "string"
+            },
+            "filename": {
+              "type": "string"
+            },
+            "error": {
+              "type": "string"
+            },
+            "expected": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "status"
+          ],
+          "additionalProperties": false
+        }
+      }
+    ]
+  },
+  "agent": {
+    "profile": "scheduler-pi",
+    "systemPrompt": "agent.md",
+    "skills": [
+      "skills/code-animation-prompts/SKILL.md"
+    ],
+    "mcp": []
+  },
+  "data": {
+    "workspace": true,
+    "shared": false
+  },
+  "permissions": [
+    "agent.state",
+    "agent.commands",
+    "project.tasks",
+    "hostTools",
+    "data",
+    "files",
+    "media",
+    "exports",
+    "theme"
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X2 desc-X2">
+  <title id="title-X2">品牌动态图形</title>
+  <desc id="desc-X2">X2 · code-video · 频道片头</desc>
+  <defs>
+    <linearGradient id="bg-X2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b0e"/><stop offset="0.55" stop-color="#142b2d"/><stop offset="1" stop-color="#48d597"/>
+    </linearGradient>
+    <radialGradient id="glow-X2" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#e3df78" stop-opacity=".36"/><stop offset="1" stop-color="#070b0e" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X2" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dff8ee" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X2)"/><rect width="800" height="450" fill="url(#glow-X2)"/><rect width="800" height="450" fill="url(#grid-X2)"/>
+  <g data-motif="geometry"><circle cx="501.06" cy="231.15" r="23.91" fill="#e3df78" opacity="0.585"/><rect x="133.4" y="277.11" width="97.58" height="97.58" rx="20.8" fill="#dff8ee" opacity="0.386" transform="rotate(-4.85 182.19 325.89)"/><path d="M655.06 67.43L700.6 158.51H609.52Z" fill="#e3df78" opacity="0.43"/><circle cx="644.95" cy="155.16" r="56.53" fill="#48d597" opacity="0.312"/><rect x="363.74" y="33.51" width="115.73" height="115.73" rx="18.12" fill="#48d597" opacity="0.758" transform="rotate(-7.1 421.61 91.37)"/><path d="M397.34 75.3L455.67 191.96H339.01Z" fill="#e3df78" opacity="0.513"/><circle cx="409.38" cy="112.4" r="24.48" fill="#e3df78" opacity="0.639"/><rect x="365.44" y="32.47" width="95.28" height="95.28" rx="11.04" fill="#dff8ee" opacity="0.252" transform="rotate(29 413.08 80.11)"/><path d="M369.76 55.53L419.5 155.01H320.02Z" fill="#e3df78" opacity="0.52"/><circle cx="418.43" cy="222.7" r="87.34" fill="none" stroke="#dff8ee" stroke-width="4" opacity=".86"/><path d="M376.43 222.7h84M418.43 180.7v84" stroke="#e3df78" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#070b0e" opacity=".72" stroke="#dff8ee" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#dff8ee" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X2</text>
+  <text x="776" y="426" text-anchor="end" fill="#dff8ee" opacity=".72" font-family="sans-serif" font-size="15">品牌动态图形</text>
+  <path d="M24 434H776" stroke="#e3df78" stroke-width="2" opacity=".54"/>
+</svg>

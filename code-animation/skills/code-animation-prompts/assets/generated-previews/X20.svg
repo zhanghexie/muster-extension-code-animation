@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X20 desc-X20">
+  <title id="title-X20">博物馆展览</title>
+  <desc id="desc-X20">X20 · code-video · 把东西一件件摆出来讲</desc>
+  <defs>
+    <linearGradient id="bg-X20" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3df78"/><stop offset="0.55" stop-color="#dff8ee"/><stop offset="1" stop-color="#070b0e"/>
+    </linearGradient>
+    <radialGradient id="glow-X20" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#142b2d" stop-opacity=".36"/><stop offset="1" stop-color="#e3df78" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X20" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#48d597" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X20)"/><rect width="800" height="450" fill="url(#glow-X20)"/><rect width="800" height="450" fill="url(#grid-X20)"/>
+  <g data-motif="geometry"><circle cx="554.84" cy="313.78" r="13.33" fill="#142b2d" opacity="0.702"/><rect x="390.36" y="120.68" width="48.98" height="48.98" rx="12.83" fill="#48d597" opacity="0.357" transform="rotate(23.32 414.85 145.17)"/><path d="M241.95 250.09L268.83 303.85H215.07Z" fill="#142b2d" opacity="0.591"/><circle cx="375.27" cy="256.86" r="27.51" fill="#070b0e" opacity="0.491"/><rect x="179.96" y="186.04" width="111.24" height="111.24" rx="20" fill="#070b0e" opacity="0.395" transform="rotate(11.2 235.57 241.66)"/><path d="M120.89 204.27L169.84 302.17H71.94Z" fill="#142b2d" opacity="0.405"/><circle cx="514.99" cy="312.32" r="33.7" fill="#142b2d" opacity="0.7"/><rect x="432.47" y="133.25" width="99.63" height="99.63" rx="21.8" fill="#48d597" opacity="0.464" transform="rotate(-12.29 482.29 183.07)"/><path d="M527.02 242.83L573.21 335.22H480.82Z" fill="#142b2d" opacity="0.654"/><circle cx="428.72" cy="218.34" r="64.58" fill="none" stroke="#48d597" stroke-width="4" opacity=".86"/><path d="M386.72 218.34h84M428.72 176.34v84" stroke="#142b2d" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#e3df78" opacity=".72" stroke="#48d597" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#48d597" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X20</text>
+  <text x="776" y="426" text-anchor="end" fill="#48d597" opacity=".72" font-family="sans-serif" font-size="15">博物馆展览</text>
+  <path d="M24 434H776" stroke="#142b2d" stroke-width="2" opacity=".54"/>
+</svg>

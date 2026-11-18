@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-M39 desc-M39">
+  <title id="title-M39">M39</title>
+  <desc id="desc-M39">M39 · 其他特别的风格 · 其他特别的风格</desc>
+  <defs>
+    <linearGradient id="bg-M39" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ef8b72"/><stop offset="0.55" stop-color="#f6c883"/><stop offset="1" stop-color="#fff4d6"/>
+    </linearGradient>
+    <radialGradient id="glow-M39" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#1d1727" stop-opacity=".36"/><stop offset="1" stop-color="#ef8b72" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-M39" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#45304d" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-M39)"/><rect width="800" height="450" fill="url(#glow-M39)"/><rect width="800" height="450" fill="url(#grid-M39)"/>
+  <g data-motif="paper"><rect x="144" y="76.5" width="480" height="256.5" rx="7" fill="#45304d" opacity=".92" transform="rotate(-4 384 202.5)"/><rect x="192" y="103.5" width="480" height="256.5" rx="7" fill="#1d1727" opacity=".27" transform="rotate(6 432 225)"/><path d="M224 139.5h274.15" stroke="#ef8b72" stroke-width="6.98" opacity=".42"/><path d="M224 168.75h296.29" stroke="#ef8b72" stroke-width="4.96" opacity=".42"/><path d="M224 198h295.63" stroke="#ef8b72" stroke-width="6.7" opacity=".42"/><path d="M224 227.25h406.88" stroke="#ef8b72" stroke-width="4.38" opacity=".42"/><path d="M224 256.5h413.32" stroke="#ef8b72" stroke-width="4.01" opacity=".42"/><path d="M224 285.75h395.35" stroke="#ef8b72" stroke-width="3.4" opacity=".42"/><path d="M504 139.5l83.56 59.44l-99.2 85.2z" fill="#fff4d6" opacity=".78"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#ef8b72" opacity=".72" stroke="#45304d" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#45304d" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">M39</text>
+  <text x="776" y="426" text-anchor="end" fill="#45304d" opacity=".72" font-family="sans-serif" font-size="15">M39</text>
+  <path d="M24 434H776" stroke="#1d1727" stroke-width="2" opacity=".54"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-M35 desc-M35">
+  <title id="title-M35">M35</title>
+  <desc id="desc-M35">M35 · 其他特别的风格 · 其他特别的风格</desc>
+  <defs>
+    <linearGradient id="bg-M35" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d1727"/><stop offset="0.55" stop-color="#45304d"/><stop offset="1" stop-color="#ef8b72"/>
+    </linearGradient>
+    <radialGradient id="glow-M35" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#f6c883" stop-opacity=".36"/><stop offset="1" stop-color="#1d1727" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-M35" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff4d6" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-M35)"/><rect width="800" height="450" fill="url(#glow-M35)"/><rect width="800" height="450" fill="url(#grid-M35)"/>
+  <g data-motif="paper"><rect x="144" y="76.5" width="480" height="256.5" rx="7" fill="#fff4d6" opacity=".92" transform="rotate(-4 384 202.5)"/><rect x="192" y="103.5" width="480" height="256.5" rx="7" fill="#f6c883" opacity=".27" transform="rotate(6 432 225)"/><path d="M224 139.5h399.17" stroke="#1d1727" stroke-width="6.26" opacity=".42"/><path d="M224 168.75h318.55" stroke="#1d1727" stroke-width="6.95" opacity=".42"/><path d="M224 198h264.68" stroke="#1d1727" stroke-width="6.75" opacity=".42"/><path d="M224 227.25h407.16" stroke="#1d1727" stroke-width="5.03" opacity=".42"/><path d="M224 256.5h388.57" stroke="#1d1727" stroke-width="3.12" opacity=".42"/><path d="M224 285.75h313.03" stroke="#1d1727" stroke-width="4.13" opacity=".42"/><path d="M504 139.5l67.94 64.24l-97.61 71.43z" fill="#ef8b72" opacity=".78"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#1d1727" opacity=".72" stroke="#fff4d6" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#fff4d6" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">M35</text>
+  <text x="776" y="426" text-anchor="end" fill="#fff4d6" opacity=".72" font-family="sans-serif" font-size="15">M35</text>
+  <path d="M24 434H776" stroke="#f6c883" stroke-width="2" opacity=".54"/>
+</svg>

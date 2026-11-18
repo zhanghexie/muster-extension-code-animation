@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-K24 desc-K24">
+  <title id="title-K24">粘土</title>
+  <desc id="desc-K24">K24 · 画面风格 · 轻松好玩</desc>
+  <defs>
+    <linearGradient id="bg-K24" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffcabd"/><stop offset="0.55" stop-color="#f1848d"/><stop offset="1" stop-color="#6b76d6"/>
+    </linearGradient>
+    <radialGradient id="glow-K24" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#26305a" stop-opacity=".36"/><stop offset="1" stop-color="#ffcabd" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-K24" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff3e5" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-K24)"/><rect width="800" height="450" fill="url(#glow-K24)"/><rect width="800" height="450" fill="url(#grid-K24)"/>
+  <g data-motif="geometry"><circle cx="642.47" cy="272.16" r="31.37" fill="#26305a" opacity="0.31"/><rect x="99.51" y="250.35" width="87.34" height="87.34" rx="8.34" fill="#fff3e5" opacity="0.77" transform="rotate(31.08 143.18 294.02)"/><path d="M527.19 259.34L587.06 379.09H467.32Z" fill="#26305a" opacity="0.347"/><circle cx="396.01" cy="87.28" r="15.75" fill="#6b76d6" opacity="0.736"/><rect x="613.82" y="182.64" width="107.02" height="107.02" rx="17.58" fill="#6b76d6" opacity="0.36" transform="rotate(35.44 667.33 236.15)"/><path d="M432.49 151.24L461.26 208.79H403.72Z" fill="#26305a" opacity="0.665"/><circle cx="517.06" cy="85.98" r="46.63" fill="#26305a" opacity="0.427"/><rect x="537.41" y="225.97" width="71.2" height="71.2" rx="20.03" fill="#fff3e5" opacity="0.757" transform="rotate(3.14 573.02 261.57)"/><path d="M627.12 168.16L644.45 202.81H609.8Z" fill="#26305a" opacity="0.461"/><circle cx="393.24" cy="216.86" r="91.2" fill="none" stroke="#fff3e5" stroke-width="4" opacity=".86"/><path d="M351.24 216.86h84M393.24 174.86v84" stroke="#26305a" stroke-width="2" opacity=".55"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#ffcabd" opacity=".72" stroke="#fff3e5" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#fff3e5" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">K24</text>
+  <text x="776" y="426" text-anchor="end" fill="#fff3e5" opacity=".72" font-family="sans-serif" font-size="15">粘土</text>
+  <path d="M24 434H776" stroke="#26305a" stroke-width="2" opacity=".54"/>
+</svg>

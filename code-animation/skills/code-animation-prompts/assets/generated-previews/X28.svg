@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-labelledby="title-X28 desc-X28">
+  <title id="title-X28">组装说明书</title>
+  <desc id="desc-X28">X28 · code-video · 讲步骤，宜家说明书那种</desc>
+  <defs>
+    <linearGradient id="bg-X28" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#48d597"/><stop offset="0.55" stop-color="#e3df78"/><stop offset="1" stop-color="#dff8ee"/>
+    </linearGradient>
+    <radialGradient id="glow-X28" cx="50%" cy="45%" r="70%"><stop offset="0" stop-color="#070b0e" stop-opacity=".36"/><stop offset="1" stop-color="#48d597" stop-opacity="0"/></radialGradient>
+    <pattern id="grid-X28" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#142b2d" stroke-opacity=".11"/></pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg-X28)"/><rect width="800" height="450" fill="url(#glow-X28)"/><rect width="800" height="450" fill="url(#grid-X28)"/>
+  <g data-motif="chart"><path d="M120 81V355.5H688" fill="none" stroke="#142b2d" stroke-width="3" opacity=".7"/><rect x="164" y="259.71" width="41.13" height="95.79" rx="4" fill="#070b0e" opacity=".82"/><rect x="229" y="258.63" width="39.66" height="96.87" rx="4" fill="#dff8ee" opacity=".82"/><rect x="294" y="200.41" width="35.32" height="155.09" rx="4" fill="#070b0e" opacity=".82"/><rect x="359" y="123.64" width="40.84" height="231.86" rx="4" fill="#dff8ee" opacity=".82"/><rect x="424" y="185.48" width="32.28" height="170.02" rx="4" fill="#070b0e" opacity=".82"/><rect x="489" y="123.96" width="41.51" height="231.54" rx="4" fill="#dff8ee" opacity=".82"/><rect x="554" y="244.7" width="42.25" height="110.8" rx="4" fill="#070b0e" opacity=".82"/><path d="M120 166.48 L195 222.57 L270 217.65 L345 186.72 L420 225.69 L495 237.34 L570 137.2 L645 145.78 L720 141.16" fill="none" stroke="#142b2d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/><circle cx="120" cy="166.48" r="5" fill="#070b0e"/><circle cx="195" cy="222.57" r="5" fill="#070b0e"/><circle cx="270" cy="217.65" r="5" fill="#070b0e"/><circle cx="345" cy="186.72" r="5" fill="#070b0e"/><circle cx="420" cy="225.69" r="5" fill="#070b0e"/><circle cx="495" cy="237.34" r="5" fill="#070b0e"/><circle cx="570" cy="137.2" r="5" fill="#070b0e"/><circle cx="645" cy="145.78" r="5" fill="#070b0e"/><circle cx="720" cy="141.16" r="5" fill="#070b0e"/></g>
+  <rect x="22" y="20" width="126" height="30" rx="15" fill="#48d597" opacity=".72" stroke="#142b2d" stroke-opacity=".28"/>
+  <text x="38" y="41" fill="#142b2d" font-family="ui-monospace,Consolas,monospace" font-size="16" font-weight="700" letter-spacing="1">X28</text>
+  <text x="776" y="426" text-anchor="end" fill="#142b2d" opacity=".72" font-family="sans-serif" font-size="15">组装说明书</text>
+  <path d="M24 434H776" stroke="#070b0e" stroke-width="2" opacity=".54"/>
+</svg>
